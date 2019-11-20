@@ -8,6 +8,6 @@ TASKS
 6. [x] Find Example Repositories - CW
 7. [ ] Build Project Code
 8. [ ] Review Final Code (Note Improvements)
-9. [ ] Create PPT
+9. [x] Create PPT - CW
 10. [ ] Edit and Review Presentation
 11. [ ] Submit Required Deliverables
