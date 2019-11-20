@@ -1,12 +1,13 @@
-1. Finalized Project Idea [X]
-2. Joined Ksu-Is [X]
-3. Created ShoeDecider Repository [X]
-4. Created the required team along [X]
-5. Researched different codes
-6. Find different example repositories 
-7. Find sources to help build final code 
-8. Build project code 
-9. Review final code for improvements
-10. Create PowerPoint presentation 
-11. Edit and review presentation
-12. Submit all required deliverables
+TASKS
+
+1. [x] Finalize Project Idea - CW
+2. [x] Join KSU-IS -CW
+3. [x] Create Repository - CW
+4. [x] Create Team - CW
+5. [x] Find Helpful Codes - CW
+6. [x] Find Example Repositories - CW
+7. [ ] Build Project Code
+8. [ ] Review Final Code (Note Improvements)
+9. [ ] Create PPT
+10. [ ] Edit and Review Presentation
+11. [ ] Submit Required Deliverables
