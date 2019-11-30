@@ -1,12 +1,28 @@
-name = input("What is your name? ")
-print ("Hello " + name,". Welcome to the Shoe-Decider! We will help you decide what shoes you should wear! ")
+def user_name():
+    name_entry = input("What is your name? ")
+return name_entry
+print ("Hello " + user_name,". Welcome to the Shoe-Decider! We will help you decide what shoes you should wear today! ")
 
 # Question One
-temperature = input("Is it raining today? Yes or No >>") .lower()
-
-if temperature == "no" :
-    print("Nice! Are you feeling comfy or dressy? >>")
-else :
-    print("Oh no.")
+weather = input("Is it rainy, cold, or sunny today? ")
+if weather == ("Rainy")
+    print("Would you like to wear rainboots or sneakers?")
+def answer():
+if answer == ("Rainboots")
+    print("Black or Brown?")
+else:
+    print("Red or blue sneakers?")
+if weather == ("Cold")
+    print("Would you like to wear boots or sneakers?")
+if answer == ("Sneakers")
+    print("Red or blue?")
+else:
+    print("Nude or brown boots?")
+if weather == ("Sunny")
+    print("Would you like to wear sandals or sneakers?")
+if answer == ("Sandals")
+    print("White or yellow?")
+else: 
+    print("Red or blue?")
 
 
