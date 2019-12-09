@@ -1,28 +1,21 @@
-def user_name():
-    name_entry = input("What is your name? ")
-return name_entry
-print ("Hello " + user_name,". Welcome to the Shoe-Decider! We will help you decide what shoes you should wear today! ")
+print("Hello there, welcome to the Shoe Decider. What is your name?")
+MyName = input()
+print ("Nice to meet you " + MyName)
+print ("Will it be Hot or Cold?")
 
-# Question One
-weather = input("Is it rainy, cold, or sunny today? ")
-if weather == ("Rainy")
-    print("Would you like to wear rainboots or sneakers?")
-def answer():
-if answer == ("Rainboots")
-    print("Black or Brown?")
-else:
-    print("Red or blue sneakers?")
-if weather == ("Cold")
-    print("Would you like to wear boots or sneakers?")
-if answer == ("Sneakers")
-    print("Red or blue?")
-else:
-    print("Nude or brown boots?")
-if weather == ("Sunny")
-    print("Would you like to wear sandals or sneakers?")
-if answer == ("Sandals")
-    print("White or yellow?")
-else: 
-    print("Red or blue?")
+answer = input()
+if answer is 'Hot':
+    print("Nice. You should wear Sneakers or Sandals!")
+elif answer != 'Cold':
+    print ("Okay. You should wear Sneakers or Boots.")
+while answer != 'Hot':
+    print ("Okay. You should wear Sneakers or Boots.")
+    break
 
+print ("Are you wearing Dark or Light clothing?")
 
+color = input()
+if answer is 'Dark':
+    print("Nice. Your shoes should be Black or Brown!")
+elif answer != 'Light':
+    print ("Okay. Your shoes should be white!")
